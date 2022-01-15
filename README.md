@@ -1,0 +1,2 @@
+# Atenfyr's Astroneer Mods
+This is a dump of my Astroneer Modding Unreal project, which includes the source code for all of the Astroneer mods that I created while I was still actively modding the game (see the Content/Atenfyr directory).

@@ -1,0 +1,16 @@
+.vs
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+Plugins
+Config
+Source
+*_WwiseProject
+Content/*
+!Content/Atenfyr
+*_BuildData.uasset
+*_BuiltData.uasset
+*.uproject
+*.sln
